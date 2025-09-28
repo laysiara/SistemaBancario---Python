@@ -14,3 +14,4 @@ resposta = inquirer.prompt(perguntas)
 
 if resposta == "Sacar":
     sacar=1 #teste,ignorem essa linha
+    #teste
